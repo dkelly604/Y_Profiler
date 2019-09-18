@@ -1,5 +1,5 @@
 # Y_Profiler
-ImageJ plugin to take line profiles and order them by distance between 2 peaks
+ImageJ plugin to take line profiles and order them by distance between 2 peaks. The plugin outputs 3 text files with data and 2 images. One image is artifically increased in size to make the Y profile easier to see, its for presentation purposes only.
 
 INSTALLATION
 
